@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enemy_D","path":"sprites/spr_enemy_D/spr_enemy_D.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_enemy_D",
     "tags": [],
     "resourceType": "GMSequence",

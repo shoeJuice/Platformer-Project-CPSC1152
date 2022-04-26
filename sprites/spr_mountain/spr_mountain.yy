@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mountain","path":"sprites/spr_mountain/spr_mountain.yy",},
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.3",
     "name": "spr_mountain",
     "tags": [],
     "resourceType": "GMSequence",
