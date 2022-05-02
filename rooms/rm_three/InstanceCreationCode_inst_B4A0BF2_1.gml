@@ -1,1 +1,1 @@
-target = rm_three;
+target = rm_end;
